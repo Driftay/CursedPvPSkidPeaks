@@ -1,0 +1,8 @@
+name: DemonEye
+version: 1.0
+author: Driftay
+main: org.saberdev.demoneye.DemonEyePlugin
+description: Don't Talk Shit GOOF
+commands:
+  givedemoneye:
+    description: /givedemoneye
